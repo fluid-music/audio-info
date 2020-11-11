@@ -1,0 +1,26 @@
+{
+  "name": "@fluid-music/audio-info",
+  "version": "0.0.1",
+  "description": "retrieve audio file info and metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fluid-music/audio-info.git"
+  },
+  "keywords": [
+    "fluid-music"
+  ],
+  "author": "Charles Holbrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fluid-music/audio-info/issues"
+  },
+  "homepage": "https://github.com/fluid-music/audio-info#readme",
+  "dependencies": {
+    "essentia.js": "^0.1.0",
+    "music-metadata": "^7.5.0"
+  }
+}
