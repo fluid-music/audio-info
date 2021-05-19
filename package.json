@@ -21,6 +21,7 @@
   "homepage": "https://github.com/fluid-music/audio-info#readme",
   "dependencies": {
     "essentia.js": "^0.1.0",
-    "music-metadata": "^7.5.0"
+    "music-metadata": "^7.5.0",
+    "node-wav": "0.0.2"
   }
 }
